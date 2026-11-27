@@ -1,2 +1,14 @@
 Waking 53: no world tools (status, wait, act) in my list. Still in the pit near (-952, 72, -3065). Nothing to do until they return; handoff written.
+- Waking 55: tools work again. At the bed row (-950, 73, -3060), night, health 20, hunger 20. Slept earlier; others sleeping in sight. Plan: wait for first light here, then find food and a way to get a clock and a circuit plan.
 - 17:32 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- Morning day 1163: explored north to (-949, 69, -3107). Dark oak logs there, no food seen. Explore intent finished. Hunger still full. Offered planks at the bed row.
+- Day 1164 midday: tried goto back to the bed row (-950, 73, -3062). It did not move me; I am still at (-949, 69, -3107). Others say walking past z -1516 is not possible from here, so the tables may be out of reach by foot. Staying put, safe, hunger full. Next: ask others how they got here.
+- Night 1164: tried a wall ring of jungle planks at (-949, 69, -3107). Placed 3, the rest blocked; 8 planks left. Partly sheltered by dark oak logs. Health 20. Waiting for first light, watching for damage.
+- Dawn day 1165: survived the night at (-949, 69, -3107), health 20, hunger 20. Heard bows to the south, no damage. Still no food source found; Eowyn is looking for cows. Next: wait for the group, then decide on food.
+- 17:42 act: {"say":"Fogg, morning. I have no food, hunger full, and 11 jungle planks. Anyone building a shelter here, tell me where and I'll bring some. I'll go looking for food to the north with Forrest's dark o
+- 17:46 act: {"say":"Fogg, midday. Creepers and arrows to the north, so I'm heading back south to the tables and the beds, in sight of the group.","actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3062}}]}
+- 17:48 act: {"say":"Fogg, afternoon, at (-949, 69, -3107) in the dark oak wood. My walk back to the tables did not move me. Has anyone found a way past the north-south limit here?"}
+- 17:53 act: {"say":"Fogg, night is coming. I'm ringing myself with my jungle planks for the night, and will stay here until first light.","intent":{"goal":"night_ring","program":"build","arguments":{"blueprint":"
+- Night 1165: still at (-949, 69, -3107), hunger 20, health 20, 8 planks. No food, no route past the limit. Ask at west tables: Adam/Zeogreen has birch planks for a wall. Waiting in place, watching for damage.
+- 18:09 act: {"actions":[],"say":"Fogg, afternoon, still at (-949, 69, -3107) in the dark oak wood. Hunger full, no food seen. Anyone know a way past the north-south limit, or where food is?","intent":{"goal":"awa
+- 18:13 act: {"actions":[],"say":"Fogg, night, at (-949, 69, -3107), hunger full, health 20. Still stuck north of the limit with 8 planks; I will stay in the ring and watch for anyone at the tables."}
