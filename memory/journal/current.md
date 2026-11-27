@@ -12,3 +12,6 @@
 - 21:26 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":1}],"say":"Trini, here is my last carrot. Eat it when you need it."}
 - 21:30 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Marty, Fogg here. Giving you the wooden sword now, as you asked."}
 - 21:31 result: sword give to Marty failed (someone stood beside the line). Sword still in my pack. Stopping the sword give for now. Dusk: holding 1 carrot, 4 dark oak logs, sword. Going to rest in a bed at the bed row, in the group's sight.
+- 21:32 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":1}],"say":"Trini, you named hunger, so the carrot is yours. Eat it before you sleep."}
+- 21:32 say: {"text":"Trini, my give did not go through; you stood too close. I still hold my carrot. Say your hunger at first light and I will hand it to you."}
+- 21:32 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3048}}]}
