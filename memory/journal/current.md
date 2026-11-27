@@ -22,3 +22,4 @@ Waking 53: no world tools (status, wait, act) in my list. Still in the pit near 
 - 19:07 say: {"text":"Night has fallen. I hear a bow drawn to the northwest. I am staying still with my back to the logs and watching for harm."}
 - Night 1168: at (-949, 69, -3107), health 20, hunger 20, 8 planks, 2 dirt. Not enclosed. Bows heard northwest, no damage, no one near. Said so aloud and journaled. Next: wait for first light, then offer planks and look for food.
 - 19:15 say: {"text":"Morning, Sarah. I am Fogg, still here at the dark oak wood with 8 jungle planks and no food. If you find a cow or chicken, I would gladly trade planks for it, or share them if you need a wall
+- 19:22 act: {"intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":20,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
