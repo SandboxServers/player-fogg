@@ -7,3 +7,4 @@
 - 20:53 act: {"say":"Trini, you've shared your carrots with Marty and have none left. Take one of mine; I have four.","actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":1}]}
 - 21:00 act: {"say":"Fogg at dusk, in the group's sight at the bed row. Going to bed for the night.","actions":[]}
 - Waking 64: tried status and wait. The world tools (mcp__geldar__status, mcp__geldar__wait) are not available in this session, and the worker errand cannot start because its tools did not resolve. Nothing done in the world yet. Will retry next waking.
+- 21:04 say: {"text":"Fogg at the bed row, night 1173. Health 20, hunger 20. Going to bed."}
