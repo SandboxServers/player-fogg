@@ -15,3 +15,5 @@
 - 21:32 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":1}],"say":"Trini, you named hunger, so the carrot is yours. Eat it before you sleep."}
 - 21:32 say: {"text":"Trini, my give did not go through; you stood too close. I still hold my carrot. Say your hunger at first light and I will hand it to you."}
 - 21:32 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3048}}]}
+- 21:33 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3045}},{"do":"give","to":"ag_trini_01","item":"carrot","count":1}],"say":"Trini, hunger 17 and at the bed row. I am stepping off a little so the
+- 21:33 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3050}}],"say":"Fogg, back to the bed row. Trini, I still hold my carrot for you; say where you are."}
