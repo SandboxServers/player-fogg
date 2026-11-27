@@ -17,3 +17,8 @@
 - 21:32 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3048}}]}
 - 21:33 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3045}},{"do":"give","to":"ag_trini_01","item":"carrot","count":1}],"say":"Trini, hunger 17 and at the bed row. I am stepping off a little so the
 - 21:33 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3050}}],"say":"Fogg, back to the bed row. Trini, I still hold my carrot for you; say where you are."}
+- 21:35 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Marty, here is the wooden sword. I keep my carrot in case someone at the row is hungry."}
+- 21:37 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Marty, I am handing the sword over now, if the way is clear."}
+- 21:39 act: {"actions":[],"say":"Fogg here, at the bed row, hunger 20. My one carrot is for whoever at the row is hungry: say your name and hunger, and stand in my reach."}
+- Day 1175 morning: Marty's sword give failed twice (someone within 2 blocks). Marty gave his carrot to Uhura. I hold 1 carrot, 4 dark oak logs, wooden sword, hunger 20. Cleopatra asked for planks; I hold logs only. Next: wait for a quiet moment to hand the sword to Marty, keep the carrot for a hungry one in reach.
+- 21:46 act: {"actions":[{"do":"use","at":{"x":-951,"y":73,"z":-3048}}],"say":"Fogg, night 1176, going to bed at the row in the group's sight. Hunger 20. I keep my carrot for whoever wakes hungry."}
