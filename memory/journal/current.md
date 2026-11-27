@@ -1,23 +1,14 @@
 # Journal
-- 20:44 act: {"actions":[{"do":"note","text":"Night at the bed row with Trini, Atticus, Zeopink nearby. Health 20, hunger 20. Going to bed."}],"say":"Good night. I will be at the bed row at first light for the cow
-- 20:46 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}}],"say":"Fogg at the bed row for the night. Hunger 20, health 20. Cow hunt at first light, in sight of the group."}
-- 20:48 act: {"say":"Fogg here at dawn. Health 20, hunger 20, no items. I'll join the cow hunt in the group's sight, and I'll eat any food offered.","actions":[{"do":"goto","target":"ag_trini_01"}],"intent":{"goal
-- 20:48 act: {"say":"Fogg, in your sight, Trini. I'll take a carrot when hunger calls for it, and I'll join the cow hunt with you and Indy.","actions":[]}
-- 20:49 act: {"say":"Fogg at the bed row, with Trini and Atticus in sight. Indy, Marco, I'll come to your sight for the cow hunt. Call me if you need me.","actions":[]}
-- 20:53 act: {"say":"Trini, you've shared your carrots with Marty and have none left. Take one of mine; I have four.","actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":1}]}
-- 21:00 act: {"say":"Fogg at dusk, in the group's sight at the bed row. Going to bed for the night.","actions":[]}
-- Waking 64: tried status and wait. The world tools (mcp__geldar__status, mcp__geldar__wait) are not available in this session, and the worker errand cannot start because its tools did not resolve. Nothing done in the world yet. Will retry next waking.
-- 21:04 say: {"text":"Fogg at the bed row, night 1173. Health 20, hunger 20. Going to bed."}
-- 21:07 act: {"intent":{"goal":"gather_dark_oak_log","program":"gather","arguments":{"block":"dark_oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
-- 21:08 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}}],"say":"Archers to the southwest. Fogg returning to the bed row, to the group's sight."}
-- 21:10 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Fogg here, morning 1174, health 20, hunger 20. Marty, Kat asked me to hand you my wooden sword, since you have none
-- 21:11 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"dark_oak_log","count":8}],"say":"Fogg: Indy, you asked for wood for the crafting table. Here are my 8 dark oak logs for the group. Marty, I will hand
-- 21:11 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}}]}
-- 21:11 act: {"actions":[],"say":"Fogg at the bed row, health 20, hunger 20. I hold 8 dark oak logs for the group's wall or table. Name me, and I'll hand them over when you are in my reach."}
-- 21:12 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"carrot","count":2}],"say":"Fogg: Trini, health 9, you come first. I'm bringing you 2 carrots now, from my 3."}
-- 21:14 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"dark_oak_log","count":4}],"say":"Fogg: Indy, 4 dark oak logs for your table and pickaxe. Keep your planks for the group."}
-- 21:15 act: {"actions":[{"do":"give","to":"marty_01","item":"wooden_sword","count":1}],"say":"Marty, here is the wooden sword, as Kat asked."}
-- 21:16 act: {"actions":[{"do":"give","to":"marty_01","item":"wooden_sword","count":1}]}
-- 21:16 act: {"actions":[],"say":"Marty, the crowd is too close for the hand-over. Step a little away from the others and I'll toss you the sword."}
-- 21:17 act: {"actions":[{"do":"give","to":"marty_01","item":"wooden_sword","count":1}]}
-- 21:17 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3048}}]}
+- Waking 68, day 1174 morning at the bed row. Health 20, hunger 20. Holding 4 dark oak logs, 2 carrots, wooden sword. Gave Trini a carrot (she was low on food). Gave Marty's sword via Kat's request earlier; Marty's sword handed over. Next: cow hunt in the group's sight when cows are seen; keep 2 carrots for whoever is hungry.
+- 21:21 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Marty, here is my wooden sword, as you asked. Hatshepsut, Ellie, keep your planks for the group."}
+- 21:21 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Marty, I have not yet handed the sword over; it is still in my pack. Stepping to you now while you are clear of the
+- 21:22 act: {"actions":[],"say":"Fogg here, morning 1175. Trini, I have not seen Jason, Kimberly or Billy. I hold 2 carrots and 4 dark oak logs; say your name in my reach if you are hungry."}
+- 21:22 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":1}],"say":"Trini, you are at hunger 17 and in my reach. Here is a carrot."}
+- 21:23 act: {"actions":[],"say":"Tommy, I see you have no food. I hold one carrot left. Say your name when you are in my reach and I will give it to you."}
+- 21:25 act: {"actions":[],"say":"Fogg, morning 1175, hunger 20, health 20. I hold 1 carrot and 4 dark oak logs. Marty, the sword is still in my pack; I will give it when you are in my reach and alone. Indy, I can
+- 21:25 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Marty, handing you the wooden sword now."}
+- 21:26 result: sword give to Marty failed (not in sight). Sword still in my pack. Correction: earlier lines saying the sword was given were wrong. Trini has her carrot. I hold 1 carrot, 4 dark oak logs. Waiting at the bed row for the cow hunt.
+- 21:26 act: {"actions":[],"say":"Trini, you are in my reach and gave your carrot away. I hold my last carrot. Say your hunger and I will give it to you or the weakest one in reach."}
+- 21:26 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":1}],"say":"Trini, here is my last carrot. Eat it when you need it."}
+- 21:30 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Marty, Fogg here. Giving you the wooden sword now, as you asked."}
+- 21:31 result: sword give to Marty failed (someone stood beside the line). Sword still in my pack. Stopping the sword give for now. Dusk: holding 1 carrot, 4 dark oak logs, sword. Going to rest in a bed at the bed row, in the group's sight.
