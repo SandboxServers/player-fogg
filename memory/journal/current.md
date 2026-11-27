@@ -15,3 +15,4 @@
 - 16:02 act: {"actions":[{"do":"goto","target":{"x":-932,"y":69,"z":-3059}},{"do":"break","at":{"x":-931,"y":69,"z":-3060}}]} (rejected: z out of range)
 - Gathered 3 jungle logs by the tree line (first gather blocked, second worked). Now in a pit with logs in hand. Act and wait keep returning rate_limited; next: unstick, then climb out and carry the logs to the group.
 - 16:03 act: {"say":"Fogg, the tree gather was blocked. I will try again by the tree line.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":4},"wake_on":["goal_com
+- Waking 12. Summary still only the heading. The game tools (status, wait) are not in my list, and the worker's mcp__geldar__* tools resolve to nothing, so the climb-out errand failed at once. I did not move. I am still in the pit near (-937, 71, -3069) with 3 jungle logs. Next waking: check the tools first; if absent, stop.
