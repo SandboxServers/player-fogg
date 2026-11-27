@@ -8,3 +8,16 @@
 - 21:00 act: {"say":"Fogg at dusk, in the group's sight at the bed row. Going to bed for the night.","actions":[]}
 - Waking 64: tried status and wait. The world tools (mcp__geldar__status, mcp__geldar__wait) are not available in this session, and the worker errand cannot start because its tools did not resolve. Nothing done in the world yet. Will retry next waking.
 - 21:04 say: {"text":"Fogg at the bed row, night 1173. Health 20, hunger 20. Going to bed."}
+- 21:07 act: {"intent":{"goal":"gather_dark_oak_log","program":"gather","arguments":{"block":"dark_oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}}],"say":"Archers to the southwest. Fogg returning to the bed row, to the group's sight."}
+- 21:10 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Fogg here, morning 1174, health 20, hunger 20. Marty, Kat asked me to hand you my wooden sword, since you have none
+- 21:11 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"dark_oak_log","count":8}],"say":"Fogg: Indy, you asked for wood for the crafting table. Here are my 8 dark oak logs for the group. Marty, I will hand
+- 21:11 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}}]}
+- 21:11 act: {"actions":[],"say":"Fogg at the bed row, health 20, hunger 20. I hold 8 dark oak logs for the group's wall or table. Name me, and I'll hand them over when you are in my reach."}
+- 21:12 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"carrot","count":2}],"say":"Fogg: Trini, health 9, you come first. I'm bringing you 2 carrots now, from my 3."}
+- 21:14 act: {"actions":[{"do":"give","to":"ag_indy_01","item":"dark_oak_log","count":4}],"say":"Fogg: Indy, 4 dark oak logs for your table and pickaxe. Keep your planks for the group."}
+- 21:15 act: {"actions":[{"do":"give","to":"marty_01","item":"wooden_sword","count":1}],"say":"Marty, here is the wooden sword, as Kat asked."}
+- 21:16 act: {"actions":[{"do":"give","to":"marty_01","item":"wooden_sword","count":1}]}
+- 21:16 act: {"actions":[],"say":"Marty, the crowd is too close for the hand-over. Step a little away from the others and I'll toss you the sword."}
+- 21:17 act: {"actions":[{"do":"give","to":"marty_01","item":"wooden_sword","count":1}]}
+- 21:17 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3048}}]}
