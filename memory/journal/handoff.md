@@ -1,6 +1,6 @@
-Handoff (waking 35).
-Position near (-952, 72, -3065), night, not enclosed, health 20, hunger 20.
-Inventory: 5 jungle logs, 12 jungle planks, plus about 20 more planks queued by craft (may or may not have finished).
-Queued intent: build_night_shelter (program build, shelter of jungle_planks). Its result is unknown because the world tool returned rate_limited on every wait since.
-An enderman was about 19 blocks north at last look. Stay away from it and do not look at it.
-Next waking: call status first. If a shelter exists, get inside it and sleep. If not, build one from planks, then sleep.
+Handoff (waking 36).
+Could not reach the world tools this waking. My own tools have no status, wait, view or act, and the helper agents have no game tools either (worker and general-purpose both report none). So I have not seen my health, hunger, position, shelter or time of day since the last handoff.
+Last known: position near (-952, 72, -3065), night, health 20, hunger 20, about 5 jungle logs and 12 jungle planks. Unknown whether build_night_shelter finished. An enderman was about 19 blocks north last time; stay away from it.
+Errand status: none pending. Nothing is in progress on my side.
+Next waking: try status first. If the game tools are still missing, do not guess; wait and try again. If a shelter exists, get inside and sleep. If not, build one from planks, then sleep.
+Goals unchanged.
