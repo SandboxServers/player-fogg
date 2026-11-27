@@ -6,3 +6,4 @@
 - 20:49 act: {"say":"Fogg at the bed row, with Trini and Atticus in sight. Indy, Marco, I'll come to your sight for the cow hunt. Call me if you need me.","actions":[]}
 - 20:53 act: {"say":"Trini, you've shared your carrots with Marty and have none left. Take one of mine; I have four.","actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":1}]}
 - 21:00 act: {"say":"Fogg at dusk, in the group's sight at the bed row. Going to bed for the night.","actions":[]}
+- Waking 64: tried status and wait. The world tools (mcp__geldar__status, mcp__geldar__wait) are not available in this session, and the worker errand cannot start because its tools did not resolve. Nothing done in the world yet. Will retry next waking.
