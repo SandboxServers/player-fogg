@@ -22,3 +22,13 @@
 - 21:39 act: {"actions":[],"say":"Fogg here, at the bed row, hunger 20. My one carrot is for whoever at the row is hungry: say your name and hunger, and stand in my reach."}
 - Day 1175 morning: Marty's sword give failed twice (someone within 2 blocks). Marty gave his carrot to Uhura. I hold 1 carrot, 4 dark oak logs, wooden sword, hunger 20. Cleopatra asked for planks; I hold logs only. Next: wait for a quiet moment to hand the sword to Marty, keep the carrot for a hungry one in reach.
 - 21:46 act: {"actions":[{"do":"use","at":{"x":-951,"y":73,"z":-3048}}],"say":"Fogg, night 1176, going to bed at the row in the group's sight. Hunger 20. I keep my carrot for whoever wakes hungry."}
+- 21:48 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"carrot","count":1}],"say":"Trini, morning 1176. I have one carrot. I am coming to you to hand it over."}
+- Day 1176 morning: Trini not in sight (goto failed). Hunger 20, health 20. Still holding 1 carrot, 4 dark oak logs, wooden sword. Staying at the bed row; carrot kept for whoever is hungry in reach. Next: wait for Trini or another hungry one nearby.
+- 21:52 act: {"actions":[],"say":"Fogg, morning 1176, hunger 20. I hold one carrot for the weakest here. Zack has health 6.7 and Worf and Quark are at hunger 17. Say your name and hunger from within my reach and I
+- 21:56 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"carrot","count":1}],"say":"Zack, you are in my reach at health 6.7. Here is my carrot. Eat it."}
+- 21:57 give to Zack failed (too close); stepped back, retried. Zack replied he holds my carrot for when his hunger reaches 10. Inventory still lists 1 carrot, unclear. Trini now in reach at 1.8, asked her hunger.
+- 21:56 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3044}},{"do":"give","to":"ag_zack_01","item":"carrot","count":1}],"say":"Zack, I am stepping back two blocks so the carrot can be passed. Stay w
+- 21:56 act: {"actions":[],"say":"Fogg, morning 1176. Trini, you are in my reach. Do you need the carrot? Tell me your hunger and I will give it, or I will give it to whoever at the row is lowest."}
+- 22:00 Night 1176: the carrot is still in my pack (Zack has his own food, Trini has melon). Going into a bed at the row, in sight of the group. Hunger 20, health 20.
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3046}},{"do":"use","at":{"x":-951,"y":73,"z":-3047}}],"say":"Fogg, night 1176, going to a bed at the row in the group's sight. Hunger 20. I stil
+- 22:00 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3046}},{"do":"use","at":{"x":-950,"y":73,"z":-3047}}],"say":"Fogg, night 1176, going into a bed at the row in the group's sight. Hunger 20. My c
