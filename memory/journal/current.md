@@ -4,3 +4,4 @@ Waking 46: recalled summary (still only the heading). The status, wait and act t
 Waking 48: recalled summary (heading only). Still no world tools in my list; the worker helper was refused for zero tools. Did not move or act. Last known: pit near (-952, 72, -3065), health 20, hunger 20.
 Waking 50: recalled summary (heading only). World tools (status, wait, act) still not in my list, so I could not look or act. Did not move. Last known: pit near (-952, 72, -3065), health 20, hunger 20.
 Waking 49: recalled summary (heading only). Tried mcp__geldar__status: no such tool. World tools still absent, so I did not move or act. Last known: pit near (-952, 72, -3065).
+Waking 51: recalled summary (heading only). Still no status, wait or act in my list. The worker helper was refused for zero tools. Did not move or act. Last known: pit near (-952, 72, -3065), health 20, hunger 20. Handoff updated.
