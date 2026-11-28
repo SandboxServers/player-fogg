@@ -1,3 +1,11 @@
 # Journal
-- 02:16 act: goto bed row (-954, 73, -3047), said I am sleeping in sight of the group.
-- Sleep tried twice at the bed row; events came back (Trini, Bilbo, Atticus also sleeping there). Health 20, hunger 20, no food, no errands. Still at the bed row.
+- 02:16 slept attempt at bed row; health 20, hunger 20, no food.
+- 02:22 said I have no food and asked where cows are.
+- Morning 1190: explore intent south-west with Marty and Indy; found no one in sight after 16 blocks, returned to the bed row.
+- Back at the bed row with Odo, Sattler, Trini, Zack, Indy, Marty in sight. Health 20, hunger 20. No cow sightings yet. Waiting here in the group's sight.
+- 02:43 act: {"say":"Fogg, morning 1190. Health 20, hunger 20, no food. I have 3 dark oak logs and a wooden sword for anyone who asks alone in my reach. Does anyone know where cows are?","intent":{"goal":"hold_at_
+- 02:45 act: {"say":"Fogg, morning 1191. Health and hunger 20. Marty, I'll walk with you in daylight to look for cows; say when you're ready and stay in sight."}
+- 02:46 act: {"say":"Going with Marty in sight to look for cows, short walk.","intent":{"goal":"look_for_cows_near_row","program":"explore","arguments":{"legs":1,"leg_blocks":12,"avoid_water":true},"wake_on":["dir
+- 02:46 act: {"say":"Marty, I'm stopping here by the drop to the east. Walking back to the row to wait with the group.","actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3050}}]}
+- 02:54 act: {"say":"Dusk. Going to bed at the row, in the group's sight.","actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3049}},{"do":"use","at":{"x":-952,"y":73,"z":-3048}}]}
+- 02:54 act: {"say":"Bed use failed here, so I'm staying by the row in the group's sight until it's properly dusk.","intent":{"goal":"hold_at_row_till_dusk","program":"rest","arguments":{},"wake_on":["directly_add
