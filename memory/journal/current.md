@@ -9,3 +9,6 @@
 - 02:46 act: {"say":"Marty, I'm stopping here by the drop to the east. Walking back to the row to wait with the group.","actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3050}}]}
 - 02:54 act: {"say":"Dusk. Going to bed at the row, in the group's sight.","actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3049}},{"do":"use","at":{"x":-952,"y":73,"z":-3048}}]}
 - 02:54 act: {"say":"Bed use failed here, so I'm staying by the row in the group's sight until it's properly dusk.","intent":{"goal":"hold_at_row_till_dusk","program":"rest","arguments":{},"wake_on":["directly_add
+- 02:57 act: {"say":"Fogg, morning 1191. Health and hunger 20, no food. Marty, I'll walk west on foot behind Zack and Trini, staying in sight, looking for cows. Only the 3 logs and sword, for anyone who asks alone
+- 03:05 act: {"say":"Fogg, dusk 1192. Health 20, hunger 20, no food. Going to a bed at the row, in the group's sight.","actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3049}},{"do":"use","at":{"x":-957,"y":7
+- 03:07 act: {"say":"Fogg, night 1192. The first bed was a no. Trying a bed farther along the row at -954,73,-3048, in the group's sight.","actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3050}},{"do":"use",
