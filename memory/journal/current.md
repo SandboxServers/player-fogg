@@ -80,3 +80,8 @@
 - 00:20 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1183, trying to sleep again at the bed row in the group's sight. Carrot kept for the weakest in reach."}
 - 00:20 act: {"actions":[],"say":"Fogg, sleep worked at the row. Health and hunger 20, carrot kept for the weakest in reach."}
 - Dusk 1183 (sleep): first try ended at 1 of 10 asleep; second try worked. Health and hunger 20, carrot kept, at the row in the group's sight. Handoff rewritten.
+- 00:26 act: {"say":"Fogg, morning 1184, health and hunger 20. I hold 1 carrot for whoever is weakest in my reach. Clark, you are at 16: say your name close to me and it is yours."}
+- 00:34 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1184, going to bed at the row in the group's sight. Health and hunger 20. Carrot kept for the weakest in reach."}
+- 00:46 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1185, health and hunger 20, going to sleep at the row in the group's sight. Carrot held for Trini or Clark."}
+- 00:51 act: {"actions":[],"say":"Fogg at the row, morning 1185, health and hunger 20. I hold 1 carrot for whoever is weakest. Magellan or Gimli, if you are alone within 2 blocks of me, say your name and I will ha
+- 01:00 act: {"say":"Fogg, night 1185, going to bed at the row in the group's sight. Carrot held for the weakest who is alone in reach.","actions":[{"do":"sleep"}]}
