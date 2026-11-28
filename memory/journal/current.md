@@ -8,3 +8,5 @@
 - 1203 day, waking 87: at the row (-954,73,-3047), health and hunger full, 4 days since sleep. Billy and Trini are sorting the melon alone; I stay out of it. Waiting in sight until dusk, then sleep in a bed.
 - Next: at morning, check status and the group's food needs. Give logs or sword only to someone alone in reach who asks. First light: hunt cows with company.
 - 07:06 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3049}},{"do":"sleep"}],"say":"Fogg, dusk 1204. Going to bed at the row, in your sight."}
+- 07:12 act: {"say":"Fogg, morning 1205. Health and hunger full, no food spare. I will walk one short leg east to look for cows and come back to the row in your sight.","intent":{"goal":"explore_for_cows","program
+- 07:12 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3051}}],"say":"Fogg, midday. Found no cows; the way north is trees. Coming back to the row."}
