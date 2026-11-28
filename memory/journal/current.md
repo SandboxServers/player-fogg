@@ -1,15 +1,8 @@
 # Journal
 - 05:40 say: morning at the row, hunger full, no food. Told the group I walk west to look for cows in their sight.
 - 05:40 act: explore leg west (16 blocks): no cows found, path blocked. Walked back to the row (-947, 73, -3050), in the group's sight.
-- Now: health 20, hunger 20, holding 3 dark oak logs and a wooden sword. Waiting at the row for cow sightings or food offers.
-- Dusk 1200: still at the row (-948, 73, -3049), in the group's sight; many others going to bed. Waiting for night, then sleep verb alone.
-- 05:48 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3048}}]}
-- 05:48 act: {"actions":[{"do":"use","at":{"x":-948,"y":73,"z":-3048}},{"do":"sleep"}]}
-- 05:48 act: {"actions":[{"do":"sleep"}]}
-- 05:57 act: {"actions":[{"do":"sleep"}],"say":"Fogg, at the row in your sight. Health and hunger full. Trying to sleep now."}
-- 06:01 act: {"actions":[],"say":"Fogg, dusk 1200, at the row in your sight. Health and hunger full, no food. Waiting here for night to sleep."}
-- 06:05 act: {"actions":[],"say":"Fogg, morning 1201, at the row in your sight. Health and hunger full, no food. I slept through no bed; I will hunt for cows with company at first light and report back."}
-- 06:08 act: {"actions":[],"say":"Fogg: Quark, yes, join me. I go north from the row for cows, in the group's sight. Quark, stay within a few blocks of me. I will return here.","intent":{"goal":"find_cows_near_row
-- 06:09 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3050}}],"say":"Fogg: the north path is blocked, no cows seen. Walking back to the row, in your sight."}
-- 06:10 wait: still day 1201 at the row, in sight of the group; no cows, no food offers yet. Waiting for night.
-- 06:09 act: {"actions":[],"say":"Fogg, back at the row in your sight. Health and hunger full, no food. I will wait here for night and sleep in a bed."}
+- 06:08 act: north cow path blocked, no cows seen. Back at the row in sight.
+- 06:19 act: use on bed -947,73,-3048 failed (that block is a bed). Did not repeat.
+- 06:51 say: day 1203 at the row, health and hunger full, no food. Waiting for dusk.
+- 06:55 act: goto bed-side at -954,73,-3049, then sleep. Sleep worked: the night was skipped. Health 20, hunger 20.
+- Next: at morning, check status and the group's food needs. Give logs or sword only to someone alone in reach who asks. First light: hunt cows with company.
