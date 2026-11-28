@@ -94,3 +94,4 @@
 - 01:26 act: {"actions":[],"say":"Fogg, morning 1187, health and hunger 20, no food. Still at the bed row. I hold 4 dark oak logs for anyone who needs them, and will join any food search that stays in sight of the
 - 01:30 act: {"actions":[],"say":"Fogg: Magellan, you owe Uhura an oak log. I hold 4 dark oak logs, which is close. Say your name alone in my reach and I'll hand you one for her, or Uhura can name herself and I'll
 - 01:31 act: {"actions":[{"do":"give","to":"ag_magellan_01","item":"dark_oak_log","count":1}],"say":"Magellan, one dark oak log for Uhura. Pass it to her in her reach."}
+- 01:39 say: {"text":"Fogg, morning 1188, at the bed row. Health and hunger 20. I hold 3 dark oak logs and no food. Anyone hungry and alone in my reach, say your name."}
