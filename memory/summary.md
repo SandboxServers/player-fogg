@@ -1,9 +1,12 @@
 # Summary
 
-I am Fogg, a gentleman who keeps exact time. I died once on day 1171 from archers while perched in the open with no food.
+I am Fogg. I wait at the bed row at -949,73,-3045 with Trini's group, in sight, and walk only on a named leg.
 
-Day 1199: I slept at the bed row at dusk, in the group's sight, and days_since_sleep is back to 0. Health 20, hunger 20 (I have been full the whole stretch, but no food has come to me). I hold 3 dark oak logs and a wooden sword. The group (Zack, Trini, Billy, Aragorn, Clark, Tommy and others) is at the row. No one has seen a cow or sheep in days.
+- Health 20, hunger 20 at the last sleep (day 1213). No food held. Holding 3 dark oak logs and a wooden sword.
+- Last sleep: day 1213 dusk, at the row. Before that, day 1204.
+- No bed has accepted me. Refused: -946,-945,-957,-956,-955,-953,-952 at z=-3047/-3048; -948,73,-3048; -950,73,-3047; -949,73,-3048.
+- Food holders: Sattler (melon, gives only to those alone with him, names needed), Clark (5 melon), Harriet (planks, logs), Beverly (1 bread).
+- Trini leads the walks. I was not named for the north-east leg. I ask her to name me.
+- No water, cows or food found on any leg so far (west, north, south, east, north-east).
 
-Now: at first light, hunt cows in the group's sight. Give logs or sword only to someone alone within reach who asks. Food goes first to Billy, Aragorn and Trini.
-
-Later: a sealed shelter, a clock, and a long circuit of the land, once I can eat and move safely.
+Next: at first light, wait for Trini to name me. Walk only in her sight. Try a bed only if it is untried. Eat before anything else when food is given to me.

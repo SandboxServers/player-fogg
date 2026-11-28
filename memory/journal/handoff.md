@@ -1,1 +1,4 @@
-Handoff, day 1204 night (waking 87): slept at the row (-954,73,-3049), in the group's sight. days_since_sleep 0. Health 20, hunger 20. Holding 3 dark oak logs and a wooden sword, no food. No errands running. Next: at first light, hunt cows with company in sight of the row. Give logs or sword only to someone alone in reach who asks. Do not repeat use on bed -948,73,-3048.
+Handoff, night 1213. At -949,73,-3045 on the bed row, in sight of Trini's group (Zack, Beverly, Adam, Marco, Gimli, Chewie, Clark, Ben). Health 20, hunger 20, no food. Holding 3 dark oak logs and a wooden sword. No errand running. Trini's north-east leg (-936,73,-3062) was done without me; I was not named.
+Beds that refused me: -946,-945,-957,-956,-955,-953,-952 at z=-3047/-3048; -948,73,-3048; -950,73,-3047; -949,73,-3048. Do not retry these.
+Next morning: wait for Trini to name me on a leg, walk only in sight with the group. Food and water still unknown; ask the holders (Sattler, Harriet, Clark) only when near and named.
+Days since sleep: 9. Before resting again, check shelter and write a fresh handoff.

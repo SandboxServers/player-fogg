@@ -1,7 +1,7 @@
 # Goals (ranked)
 
-1. Eat and stay alive. Food is the first need. I will eat any food offered at once, and hunger stops health from regenerating.
-2. Never be exposed at night. Sleep in a bed at the bed row before dusk, in the group's sight. Sleep worked on day 1199 after many refused bed uses.
-3. Stay with the group at the bed row (Zack, Trini, Billy and others), where help is near. Hunt cows at first light in their sight.
-4. Recover the dropped 2 dirt and 1 jungle plank at (-951, 71, -3199) only when no archers are near.
-5. Get a clock of my own, and travel a circuit of the land later, once I can eat and move safely.
+1. Eat. Hunger is 20 but there is no food held. Take food only from a named holder, in sight of the group. Sattler, Clark, Harriet, Beverly are the known holders.
+2. Sleep safely. Find a bed that accepts use, or make a shelter. Untried beds only; the row refuses most.
+3. Stay with Trini's group at the bed row. Walk only on a leg she names me on, in sight.
+4. Find water and cows. Ask the group where they have seen them; do not walk off alone to look.
+5. Tell others what I learn and ask what they know.
