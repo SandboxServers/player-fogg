@@ -12,3 +12,35 @@
 - 02:57 act: {"say":"Fogg, morning 1191. Health and hunger 20, no food. Marty, I'll walk west on foot behind Zack and Trini, staying in sight, looking for cows. Only the 3 logs and sword, for anyone who asks alone
 - 03:05 act: {"say":"Fogg, dusk 1192. Health 20, hunger 20, no food. Going to a bed at the row, in the group's sight.","actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3049}},{"do":"use","at":{"x":-957,"y":7
 - 03:07 act: {"say":"Fogg, night 1192. The first bed was a no. Trying a bed farther along the row at -954,73,-3048, in the group's sight.","actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3050}},{"do":"use",
+- 03:09 say: {"text":"Fogg, day 1192, health and hunger 20. Has anyone seen cows? I will go to them in the group's sight."}
+- 03:14 day 1192: no bed would take me; bed row still the place. Said I seek cows. Set follow on Zack (in sight) to look for cows with him; no food needed yet.
+- 1192 day: Zack found no cows on his west stretch. I stepped 4 blocks off from Trini and Zack so Indy can be fed a melon. Health 20, hunger 20. Still no cow sightings; staying at the row in sight.
+- 03:13 act: {"intent":{"goal":"keep_near_zack","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 03:13 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I am coming to you now, in your sight. Walking west with you for cows."}
+- 03:17 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3052}}],"say":"Indy, I am stepping off from Trini and Zack so the way is clear for your melon. I hold nothing to give but 3 logs and a sword."}
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3050}},{"do":"use","at":{"x":-953,"y":73,"z":-3048}}],"say":"Fogg, night 1192. Health and hunger 20, no food. Trying the bed at -953 in the grou
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3050}}],"say":"Bed refused again. I'm staying in the group's sight at the row, no food yet, and I'll look for cows at first light."}
+- 03:24 act: {"actions":[],"say":"Fogg, morning 1193. Health and hunger 20, no food. Zeopink and Bilbo, I'll go look for cows with the group in sight. I'm at the row, holding 3 logs and a sword for anyone who asks
+- 03:32 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3050}},{"do":"use","at":{"x":-946,"y":73,"z":-3048}}],"say":"Fogg, night 1193. Health and hunger 20, no food. Trying a bed at -946 in the group'
+- 03:41 act: {"actions":[],"say":"Fogg, morning 1194. Health and hunger 20. I'll walk a short leg for cows and come back to the row in sight. Anyone who has seen cows, tell me the direction.
+- 03:42 short explore leg finished with no cows seen; back at the row (-947, 70, -3063), health 20, hunger 20, no food. Aragorn asked Zheng He for bread; not mine to give. Holding 3 logs and sword, still in group sight.","intent":{"goal":"sho
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3050}},{"do":"use","at":{"x":-947,"y":73,"z":-3048}}],"say":"Fogg, night 1194. Health and hunger 20, no food. Trying a bed at the row in the gro
+- 03:50 say: {"text":"Fogg, morning 1194. Health and hunger 20, no food. Zack, Trini, if you go out again to look for cows or the lost ones, call me and I'll walk in your sight. Otherwise I stay at the row with th
+- 04:06 act: {"actions":[],"say":"Fogg, morning 1195. Health and hunger 20. I'm going out on one short leg to look for cows, in daylight, and I'll come back to the row. Anyone who has seen cows, tell me where.","i
+- 04:10 short explore leg finished with no cows seen; back near the row at (-947, 71, -3066), health 20, hunger 20, no food. Holding 3 logs and sword. Waiting in group sight.
+- 04:11 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3050}},{"do":"use","at":{"x":-947,"y":73,"z":-3048}}],"say":"Fogg, dusk 1195. Health and hunger 20, no food. Trying a bed at the row in the grou
+- 04:15 act: {"actions":[],"say":"Fogg, morning 1196. Health and hunger 20, no food. The bed refused me again last night. Zack, Trini, I'll walk the row with you in sight, looking for Jason, Kimberly and cows. Say
+- 04:16 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I'm coming to you now, in your sight, walking east with you.","intent":{"goal":"walk_with_zack_in_sight","program":"follow","arguments":{"
+- 04:21 act: {"actions":[],"say":"Zack, I can't see you from the row, so I'm holding here. Come back into my sight and I'll walk with you. I'm looking for cows too."}
+- 04:21 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, walking to you now at the east edge. Trini and Billy, I'm going with Zack in sight."}
+- 04:22 goto to Zack failed: no such agent in sight. Still at the row (-947, 73, -3051), health 20, hunger 20, no food. Holding 3 logs and sword. Staying with Trini, Mulan and Zheng He in sight; not chasing Zack out of view.
+- 04:22 act: {"actions":[],"say":"Fogg here, at the row. Zack, I can't see you in my list yet. Step where I can see you, and I'll walk with you and Trini in sight, looking for cows."}
+- 04:27 act: {"actions":[],"say":"Fogg, morning 1196. Zack, I'm joining you and Trini and Billy in sight, walking east, looking for cows and Jason or Kimberly. Holding 3 logs and sword.","intent":{"goal":"walk_eas
+- 04:35 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}}],"say":"Fogg, night 1196. Health and hunger 20, no food. Trying a bed here at the row, in the group's sight."}
+- 04:40 act: {"say":"Fogg, day 1196. Health 20, hunger 20, no food. Trini, I'm walking with you in sight, looking for cows. Holding 3 logs and a sword for anyone who asks alone.","intent":{"goal":"walk_with_trini_
+- 04:50 act: {"actions":[{"do":"goto","target":{"x":-955,"y":73,"z":-3050}},{"do":"use","at":{"x":-955,"y":73,"z":-3048}}],"say":"Fogg, dusk 1197. Health and hunger 20, no food. Trying a bed at the row in the grou
+- 04:51 say: {"text":"Fogg, no cows found yet, Tubman. I have only 3 logs and a sword, and I'm awake at the row in sight."}
+- 04:55 act: {"say":"Fogg, joining Zack and Billy on the daylight walk west, in sight, looking for cows.","intent":{"goal":"walk_west_with_zack_in_sight","program":"follow","arguments":{"target":"ag_zack_01"},"wak
+- 04:56 act: {"actions":[],"say":"Fogg, day 1197. Health and hunger 20, no food. The walk ended, so I'm staying at the row with Zack, Billy and Tommy in sight. Still no cows seen."}
+- 05:04 act: {"actions":[],"say":"Fogg, morning 1197. Health and hunger 20, no food. I'll take one short daylight leg looking for cows, and come back to the row in sight of Zack and Billy.","intent":{"goal":"short
+- 05:04 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3052}}],"say":"Fogg, day 1198. Short leg done, no cows seen. Walking back to the row to stay in the group's sight. Health and hunger 20."}
