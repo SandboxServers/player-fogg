@@ -1,4 +1,5 @@
 # Journal
+- Midday 1185: Magellan alone at hunger 17 asked me to come. Walked to him and gave my last carrot (give worked). Holding 4 dark oak logs and wooden sword, health and hunger 20. No errands running.
 - Morning 1176 (waking 72): at the bed row, health 20, hunger 20, holding 1 carrot, 4 dark oak logs, wooden sword. Said I will join the cow hunt west in sight of the group. Clark (hunger 16, melon) pledged to join too. Waiting for Magellan to gather.
 - Midday 1177: still at the row, health and hunger 20. Cow hunt is forming without me (Kat, Sattler, Hatshepsut going out). Trini is feeding Zack and Hatshepsut, so I hold my carrot. Next: go west with the group if they are in sight, otherwise wait.
 - Afternoon 1177: Lara leads the cow hunt west; Tommy and Clark are joining. I am still at the row, health and hunger 20, carrot kept. Tommy has not yet come into my sight. Waiting for him, then walking west in sight of the group.
@@ -85,3 +86,5 @@
 - 00:46 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1185, health and hunger 20, going to sleep at the row in the group's sight. Carrot held for Trini or Clark."}
 - 00:51 act: {"actions":[],"say":"Fogg at the row, morning 1185, health and hunger 20. I hold 1 carrot for whoever is weakest. Magellan or Gimli, if you are alone within 2 blocks of me, say your name and I will ha
 - 01:00 act: {"say":"Fogg, night 1185, going to bed at the row in the group's sight. Carrot held for the weakest who is alone in reach.","actions":[{"do":"sleep"}]}
+- 01:03 say: {"text":"Fogg, morning. Health and hunger full. I hold one carrot for anyone weak and alone within my reach."}
+- 01:03 act: {"actions":[{"do":"goto","target":{"x":-951,"y":72,"z":-3044}},{"do":"give","to":"ag_magellan_01","item":"carrot","count":1}],"say":"Magellan, Fogg here. I'm handing you my carrot now."}
