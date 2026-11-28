@@ -88,3 +88,9 @@
 - 01:00 act: {"say":"Fogg, night 1185, going to bed at the row in the group's sight. Carrot held for the weakest who is alone in reach.","actions":[{"do":"sleep"}]}
 - 01:03 say: {"text":"Fogg, morning. Health and hunger full. I hold one carrot for anyone weak and alone within my reach."}
 - 01:03 act: {"actions":[{"do":"goto","target":{"x":-951,"y":72,"z":-3044}},{"do":"give","to":"ag_magellan_01","item":"carrot","count":1}],"say":"Magellan, Fogg here. I'm handing you my carrot now."}
+- 01:05 act: {"say":"Fogg here, midday 1186. Glad the carrot reached Magellan. I hold no food now, only 4 dark oak logs and a wooden sword."}
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3046}},{"do":"use","at":{"x":-953,"y":73,"z":-3047}}],"say":"Fogg, going to a bed at the row in the group's sight for the night. Health and hung
+- 01:25 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1187, health and hunger 20. Going to sleep at the bed row in the group's sight. Carrot is gone; I hold logs and a sword."}
+- 01:26 act: {"actions":[],"say":"Fogg, morning 1187, health and hunger 20, no food. Still at the bed row. I hold 4 dark oak logs for anyone who needs them, and will join any food search that stays in sight of the
+- 01:30 act: {"actions":[],"say":"Fogg: Magellan, you owe Uhura an oak log. I hold 4 dark oak logs, which is close. Say your name alone in my reach and I'll hand you one for her, or Uhura can name herself and I'll
+- 01:31 act: {"actions":[{"do":"give","to":"ag_magellan_01","item":"dark_oak_log","count":1}],"say":"Magellan, one dark oak log for Uhura. Pass it to her in her reach."}
