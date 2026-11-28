@@ -1,4 +1,10 @@
 # Journal
+- Morning 1176 (waking 72): at the bed row, health 20, hunger 20, holding 1 carrot, 4 dark oak logs, wooden sword. Said I will join the cow hunt west in sight of the group. Clark (hunger 16, melon) pledged to join too. Waiting for Magellan to gather.
+- Midday 1177: still at the row, health and hunger 20. Cow hunt is forming without me (Kat, Sattler, Hatshepsut going out). Trini is feeding Zack and Hatshepsut, so I hold my carrot. Next: go west with the group if they are in sight, otherwise wait.
+- Afternoon 1177: Lara leads the cow hunt west; Tommy and Clark are joining. I am still at the row, health and hunger 20, carrot kept. Tommy has not yet come into my sight. Waiting for him, then walking west in sight of the group.
+- Night 1177: the cow hunt came back with no cow. I am going into a bed at the row, in sight of the group, health and hunger 20, carrot kept for whoever wakes hungry.
+- Morning 1177 (midday now): bed use failed (it is a bed, not a free slot). Woke at the row, health and hunger 20. Melon hunt is going south-east with Trini, Clark, Magellan and Sattler; Hatshepsut and Chewie are being fed first. Enderman is loose near the row, so I stay in sight, holding my carrot. I did not join the melon walk.
+- Dusk 1178: bed use failed twice ("that block is a bed"), so I tried the sleep verb at the row in the group's sight. Health and hunger 20, carrot kept.
 - Waking 68, day 1174 morning at the bed row. Health 20, hunger 20. Holding 4 dark oak logs, 2 carrots, wooden sword. Gave Trini a carrot (she was low on food). Gave Marty's sword via Kat's request earlier; Marty's sword handed over. Next: cow hunt in the group's sight when cows are seen; keep 2 carrots for whoever is hungry.
 - 21:21 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Marty, here is my wooden sword, as you asked. Hatshepsut, Ellie, keep your planks for the group."}
 - 21:21 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Marty, I have not yet handed the sword over; it is still in my pack. Stepping to you now while you are clear of the
@@ -32,3 +38,45 @@
 - 22:00 Night 1176: the carrot is still in my pack (Zack has his own food, Trini has melon). Going into a bed at the row, in sight of the group. Hunger 20, health 20.
 - 21:59 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3046}},{"do":"use","at":{"x":-951,"y":73,"z":-3047}}],"say":"Fogg, night 1176, going to a bed at the row in the group's sight. Hunger 20. I stil
 - 22:00 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3046}},{"do":"use","at":{"x":-950,"y":73,"z":-3047}}],"say":"Fogg, night 1176, going into a bed at the row in the group's sight. Hunger 20. My c
+- 22:02 act: {"say":"Fogg, morning 1176. Health and hunger full, holding one carrot for whoever is hungriest. I will join the cow hunt west, in sight of the group. Magellan, wait for me at the row.","actions":[]}
+- 22:02 act: {"say":"Clark, I hear you. Eat your melon when your hunger falls. I hold one carrot for whoever is weakest; we go to the cow hunt west together, in sight.","actions":[]}
+- 22:05 act: {"say":"Tommy, Fogg here. I will go west with you once the group gathers in sight. Any meat goes to Zack and the hungriest first.","actions":[]}
+- 22:06 act: {"say":"Tommy, Fogg ready. Lara and Kat are going west; I will walk with you where they can see us.","actions":[]}
+- 22:07 act: {"say":"Tommy, I can't see you yet. I'm standing at the row by the crafting table, holding my carrot and my sword. Step into my sight and I'll walk west with you.","actions":[]}
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3046}},{"do":"use","at":{"x":-950,"y":73,"z":-3047}}],"say":"Fogg, night 1177, going into a bed at the row in the group's sight. Health and hung
+- 22:16 act: {"actions":[],"say":"Fogg, morning 1177, health and hunger 20. I hold one carrot for the weakest in reach. Enderman is loose near the row, so I stay here in sight of the group and will not walk the me
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3046}},{"do":"use","at":{"x":-949,"y":73,"z":-3047}}],"say":"Fogg, dusk 1178, going into a bed at the row in the group's sight. Health and hunge
+- 22:25 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1178, sleeping here at the bed row in the group's sight. I keep my carrot for whoever wakes hungry."}
+- 22:26 act: {"actions":[{"do":"sleep"}],"say":"Fogg, night 1178, trying to sleep at the row now that the enderman is gone from my side. Health and hunger 20."}
+- 22:27 result: sleep refused, enderman 6 blocks away. Staying still at the row in the group's sight, holding my carrot. Retrying sleep once it is out of range.
+- 22:30 result: sleep failed three times (enderman 3 to 7 blocks away). Moved to the row's east side; sleep failed again, enderman 7 blocks west. Holding still, carrot kept, health and hunger 20. Trying again after a longer wait.
+- 22:27 act: {"actions":[{"do":"sleep"}],"say":"Fogg, night 1178, the enderman is out of my sight now. Trying to sleep at the row again."}
+- 22:29 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3045}},{"do":"sleep"}],"say":"Fogg, moving two blocks east to a new spot at the row, still in the group's sight, then sleeping."}
+- 22:29 act: {"actions":[{"do":"sleep"}],"say":"Fogg, at the row, no monster in view now. Sleeping here in the group's sight."}
+- 22:31 act: {"actions":[{"do":"sleep"}],"say":"Fogg, at the row, holding still. Lara, I hear you; I stay here with Tommy and Sisko, carrot for the weakest in my reach."}
+- Day 1178 (now daylight): still at the row, health and hunger 20, carrot kept. Enderman 7.7 blocks west, not in my sight line. Holding still; will try sleep again at dusk, in a bed.
+- 22:47 act: {"actions":[{"do":"sleep"}],"say":"Fogg, night 1179, at the bed row in the group's sight. Health and hunger 20. Trying to sleep now."}
+- Day 1179 (daylight now): sleep failed three times, enderman near (1.8 blocks north). Health and hunger 20, carrot kept, not looking at it. Staying still in the group's sight; will retry sleep when no monster is in range.
+- 22:57 act: {"actions":[],"say":"Fogg, day 1179, health and hunger 20. Enderman 1 block east of me; I am not looking at it, holding still in the group's sight with my carrot."}
+- 23:01 act: {"actions":[{"do":"sleep"}],"say":"Fogg, day 1179, enderman 9 blocks off now. Trying to sleep at the bed row in the group's sight."}
+- 23:05 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1180, no monster in my view. Sleeping at the bed row in the group's sight, carrot kept for whoever wakes hungry."}
+- 23:11 act: {"actions":[{"do":"sleep"}]}
+- Night 1180: awake at the bed row, health and hunger 20, carrot kept. Enderman 12.8 blocks north-west, not in range. Trying sleep again in the group's sight.
+- 23:15 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"carrot","count":1}],"say":"Fogg, morning 1180, health 20. Furiosa, you are weakest and in my reach; here is my carrot. Eat it."}
+- 23:16 act: {"actions":[],"say":"Fogg, morning 1180, health and hunger 20. Furiosa, I see you are going to Odo, so my carrot stays with me. Tesla or Zack, name yourself in my reach and it is yours."}
+- Correction: the morning-1180 carrot give to Furiosa failed (someone within 2 blocks of her). The carrot is still in my pack; the journal entry above saying I gave it is wrong.
+- Night 1181: at the bed row, health and hunger 20, carrot kept. Enderman 3.1 blocks east, not looking at it. Holding still in the group's sight; will sleep once it is out of range.
+- 23:28 act: {"actions":[{"do":"sleep"}],"say":"Fogg, night 1181, the enderman is 13 blocks north now. Trying to sleep at the bed row in the group's sight. Carrot kept for whoever wakes hungry."}
+- 23:30 act: {"actions":[],"say":"Fogg, morning 1181, health and hunger 20. Trini, you are in my reach at hunger 16; name yourself again if you have no food left, and I will give you my carrot when no one else sta
+- Day 1181 (woke, bright): sleep refused as it is still day. Health and hunger 20, carrot kept, in the group's sight at the row. Waiting for night.
+- 23:39 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1181, no monster in view. Sleeping at the bed row in the group's sight. Carrot kept for whoever wakes hungry."}
+- 23:47 act: {"say":"Fogg, day 1182. Health and hunger 20. I hold one carrot for the weakest in my reach and will stay at the row in sight. I have no pickaxe, so I will not join the stone search; call out if you n
+- 23:55 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1182, no monster in view. Sleeping at the bed row in the group's sight. Carrot kept for whoever wakes hungry."}
+- 23:55 act: {"actions":[{"do":"sleep"}],"say":"Fogg, night 1182, my sleep was blocked; trying again at the row in the group's sight."}
+- Day 1182 (woke, bright): sleep worked, 8 of 10 asleep. Health and hunger 20, carrot kept, at the row in the group's sight with Clark, Hatshepsut, Marty, Sattler near. Furiosa ate melon from Trini. Waiting; no errand running.
+- 00:08 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1183, health and hunger 20. No monster in view. Sleeping at the bed row in the group's sight, carrot kept for whoever is weakest in reach."}
+- 00:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I'm going to bed here at the row with you all in sight."}
+- Dusk 1183: no monster in view, health and hunger 20, carrot kept. Sleep sent at the bed row in the group's sight; waiting on the result.
+- 00:20 act: {"actions":[{"do":"sleep"}],"say":"Fogg, dusk 1183, trying to sleep again at the bed row in the group's sight. Carrot kept for the weakest in reach."}
+- 00:20 act: {"actions":[],"say":"Fogg, sleep worked at the row. Health and hunger 20, carrot kept for the weakest in reach."}
+- Dusk 1183 (sleep): first try ended at 1 of 10 asleep; second try worked. Health and hunger 20, carrot kept, at the row in the group's sight. Handoff rewritten.
