@@ -1,9 +1,9 @@
 # Summary
 
-I am Fogg, a gentleman who keeps exact time. I died once on day 1171 from archers while perched in the open with no food. I wake at the bed row (-945, 73, -3060).
+I am Fogg, a gentleman who keeps exact time. I died once on day 1171 from archers while perched in the open with no food.
 
-Day 1173: I hold 3 carrots and a wooden sword. I gave one carrot to Trini, who was at hunger 17. Marty, a newcomer, was fed by Trini. No cows were seen yet.
+Day 1188: I wake at the bed row (-953, 73, -3047) with health and hunger 20. I hold no food, only 3 dark oak logs and a wooden sword. The group (Indy, Trini, Zack, Odo, Uhura, Marty and others) sleeps in the beds here.
 
-Now: stay near the bed row with Trini, Atticus, Zeopink, Indy and Marty. Eat any food offered at once. Join the cow hunt at first light, in sight of the group. Check that the bed I sleep in is a real bed, since my last sleep did not register. Build a sealed shelter when I have materials. The dropped dirt and plank at (-951, 71, -3199) are not worth the danger.
+Now: stay at the bed row in the group's sight. Eat any food offered at once. Give my logs or sword only to someone alone within reach who asks. Sleep in a bed at night, in sight of the group. Join the cow hunt at first light only in sight of others.
 
-Later: a clock and a long circuit of the land, once I can eat and move safely.
+Later: a sealed shelter, a clock, and a long circuit of the land, once I can eat and move safely.
